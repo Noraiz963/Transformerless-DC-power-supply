@@ -21,11 +21,11 @@ The design is broken into functional stages:
 
 ## PCB Layout
 
-![PCB Layout]([images/pcb_layout.png](https://github.com/Noraiz963/Transformerless-DC-power-supply/blob/41bb1f8103dfd90d45387547d027a9882517e033/Screenshot%202026-07-20%20193431.png))
+![PCB Layout](https://github.com/Noraiz963/Transformerless-DC-power-supply/blob/41bb1f8103dfd90d45387547d027a9882517e033/Screenshot%202026-07-20%20193431.png)
 
 ## 3D Render
 
-![3D Render]([images/3d_render.png](https://github.com/Noraiz963/Transformerless-DC-power-supply/blob/41bb1f8103dfd90d45387547d027a9882517e033/Screenshot%202026-07-20%20193452.png))
+![3D Render](https://github.com/Noraiz963/Transformerless-DC-power-supply/blob/41bb1f8103dfd90d45387547d027a9882517e033/Screenshot%202026-07-20%20193452.png)
 
 ## Bill of Materials
 
