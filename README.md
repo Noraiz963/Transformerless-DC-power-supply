@@ -17,7 +17,7 @@ The design is broken into functional stages:
 
 ## Schematic
 
-![Schematic]([images/schematic.png](https://github.com/Noraiz963/Transformerless-DC-power-supply/blob/41bb1f8103dfd90d45387547d027a9882517e033/Screenshot%202026-07-20%20193404.png))
+![Schematic](https://github.com/Noraiz963/Transformerless-DC-power-supply/blob/41bb1f8103dfd90d45387547d027a9882517e033/Screenshot%202026-07-20%20193404.png)
 
 ## PCB Layout
 
